@@ -40,6 +40,22 @@ INPUT
 4    Height         Num       8                                                                                            
 5    Weight         Num       8                                                                                            
                                                                                                                            
+EXAMPLE OUTPUT                                                        
+--------------                                                        
+                                                                      
+  Variables in Creation Order                                         
+                                                                      
+#    Variable       Type    Len                                       
+                                                                      
+1    Name           Char      8                                       
+2    Student_Sex    Char      1                                       
+3    Student_Age    Num       8                                       
+4    Height         Num       8                                       
+5    Weight         Num       8                                       
+                                                                      
+Data Set Name        WORK.WANT             Observations          19   
+Member Type          DATA                  Variables             5    
+                                                                      
                                                                                                                            
 PROCESS                                                                                                                    
 =======                                                                                                                    
